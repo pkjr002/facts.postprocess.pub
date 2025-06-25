@@ -1,0 +1,12 @@
+# Byte-compiled #
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store 
+
+# format files #
+
+# User folders #
+
+# User files #
+print_.py
