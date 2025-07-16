@@ -18,7 +18,9 @@ Folder for NJSTAP Exceedance results.
   1. [New_York](https://raw.githack.com/pkjr002/facts.postprocess.pub/refs/heads/main/projects/2025_NJSTAP/Exceedance/tabulated/20250715_1538_plot.xcdance.table_New_York.html)      
   
   The Medium and Low Confidence exceedance values have been tabulated below in excel sheet. <em>NOTE clicking link will auto download file</em>.       
-  1. `NEW` [Medium/Low Confidence tabulated excel sheet](https://github.com/pkjr002/facts.postprocess.pub/raw/refs/heads/main/projects/2025_NJSTAP/Exceedance/tabulated/Exceedance_table_NJSTAP_praveen_new.xlsx) for NJSTAP Year of Exceedance 
+  1. `LATEST` [Medium/Low Confidence tabulated excel sheet](https://github.com/pkjr002/facts.postprocess.pub/raw/refs/heads/main/projects/2025_NJSTAP/Exceedance/tabulated/Exceedance_table_NJSTAP_praveen_latest.xlsx) for NJSTAP Year of Exceedance 
+  
+  1. <mark>Do Not Use</mark> `NEW` [Medium/Low Confidence tabulated excel sheet](https://github.com/pkjr002/facts.postprocess.pub/raw/refs/heads/main/projects/2025_NJSTAP/Exceedance/tabulated/Exceedance_table_NJSTAP_praveen_new.xlsx) for NJSTAP Year of Exceedance 
 
   1. <mark>Do Not Use</mark> `OLD` [Medium/Low Confidence tabulated excel sheet](https://github.com/pkjr002/facts.postprocess.pub/raw/refs/heads/main/projects/2025_NJSTAP/Exceedance/tabulated/Exceedance_table_NJSTAP_praveen.xlsx) (placed for reference only).
   
