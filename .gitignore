@@ -10,3 +10,4 @@ __pycache__/
 
 # User files #
 print_.py
+*.nc
