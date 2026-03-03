@@ -1,7 +1,13 @@
 # NJSTAP SL Projections.    
 Folder for NJSTAP SL Projections results.     
 
-### SL `Projection` Figures.      
+### SL Dashboard.
+1. <mark> new </mark>  NJSTAP [Dashboard](https://raw.githack.com/pkjr002/facts.postprocess.pub/refs/heads/main/projects/2025_NJSTAP/SL_projections/_figures/NJSTAPapp_dashboard.html)
+  <br>
+
+
+
+### SL `Projection` Figures (static).      
 1. PHILADELPHIA  ........................ [medium](https://raw.githack.com/pkjr002/facts.postprocess.pub/refs/heads/main/projects/2025_NJSTAP/SL_projections/_figures/20250910_0218_plot.facts.data.NJSTAP1_PHILADELPHIA.html) , [low](https://raw.githack.com/pkjr002/facts.postprocess.pub/refs/heads/main/projects/2025_NJSTAP/SL_projections/_figures/20250910_0231_plot.facts.data.NJSTAP1_lowConf_PHILADELPHIA.html) &nbsp;&nbsp; confidence.  
 
 1. CAPE_MAY ........................ [medium](https://raw.githack.com/pkjr002/facts.postprocess.pub/refs/heads/main/projects/2025_NJSTAP/SL_projections/_figures/20250910_0219_plot.facts.data.NJSTAP1_CAPE_MAY.html) , [low](https://raw.githack.com/pkjr002/facts.postprocess.pub/refs/heads/main/projects/2025_NJSTAP/SL_projections/_figures/20250910_0230_plot.facts.data.NJSTAP1_lowConf_CAPE_MAY.html) &nbsp;&nbsp; confidence.  
